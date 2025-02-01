@@ -15,8 +15,8 @@ TubeGrab is a minimal YouTube downloader utility written in Go. It allows you to
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/tubegrab.git
-   cd tubegrab
+   git clone https://github.com/makalin/TubeGrab.git
+   cd TubeGrab
    ```
 
 3. **Build the Tool**:
