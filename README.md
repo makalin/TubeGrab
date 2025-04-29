@@ -1,5 +1,7 @@
 # TubeGrab
 
+![TubeGrab Logo](tubegrab_logo.png)
+
 TubeGrab is a minimal YouTube downloader utility written in Go. It allows you to download YouTube videos by providing the video URL. The tool fetches the video information, selects the best available quality with audio, and saves the video to your local directory.
 
 ## Features
